@@ -1,0 +1,32 @@
+var json_EXISTINGLINEDRCBC_5 = {
+"type": "FeatureCollection",
+"name": "EXISTINGLINEDRCBC_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=65.4m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.492991143600534, 9.789581430117545 ], [ 125.49309023449571, 9.789881912386406 ], [ 125.493133642356398, 9.790031802798104 ], [ 125.493153656226596, 9.790149611354899 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=65.6m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=87.2m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.493532243598779, 9.789333699681977 ], [ 125.49407234290338, 9.789086675783578 ], [ 125.494248865238532, 9.788992205118369 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=100.5m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=3m H=3m L=68.2m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=172.6m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=724.6m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=174.6m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=3m L=427m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=3m H=3m L=145.1m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "RCBC W=3 m H=3m  L=9m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional L=106m W=1.90m H=1m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.488721496357428, 9.787736500802433 ], [ 125.489675862501642, 9.787591066541124 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.496027493671804, 9.789218964000282 ], [ 125.496298277827933, 9.789795685481369 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.495941599772834, 9.789251960529946 ], [ 125.496238588847277, 9.789893240259721 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.496029677414995, 9.789222550579751 ], [ 125.49695867816564, 9.788777276442431 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=1.90m H=1m L=91.3m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.489761754115364, 9.787569448195251 ], [ 125.490386908780764, 9.787487337213314 ], [ 125.490587293380145, 9.787445835459286 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=0.60m L=49.7m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional W=0.60m H=0.60m L=38.9m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional L=200m W=1.90m H=1m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.490589747484876, 9.787445269938749 ], [ 125.490688188847287, 9.787430562831389 ], [ 125.490633533258318, 9.787138292173339 ], [ 125.49058991358163, 9.786968510317624 ], [ 125.490548730920196, 9.786784290537287 ], [ 125.490492151468132, 9.786459203216264 ], [ 125.490401475004091, 9.786092957547968 ], [ 125.490314590290495, 9.785686835163904 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional L=322m W=1.90m H=1m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.496365455607105, 9.789944361834406 ], [ 125.496546251265229, 9.789663078736998 ], [ 125.496717744205014, 9.789378991745162 ], [ 125.496915327019025, 9.789080923834799 ], [ 125.497240621002234, 9.78863972516346 ], [ 125.4975542434739, 9.788159527460401 ], [ 125.4979662322026, 9.787562103085634 ], [ 125.497988445058951, 9.787529937566701 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional L=523m W=1.90m H=1m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.498055675284064, 9.787442301501565 ], [ 125.498345490802407, 9.787012300414853 ], [ 125.498574532039157, 9.786676467452818 ], [ 125.49890375990384, 9.786210810212802 ], [ 125.499104071073234, 9.78588283496415 ], [ 125.499344766750013, 9.785535235035464 ], [ 125.49962881850179, 9.785154366508609 ], [ 125.499767836064592, 9.784966440624517 ], [ 125.499981781807691, 9.78463431924504 ], [ 125.500191081259402, 9.784339737732429 ], [ 125.500400385224154, 9.784014101499752 ], [ 125.50068301186765, 9.783608359010257 ], [ 125.500772182530412, 9.783469090867039 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional( L=50m)( W=1.90m) (H=1m ) GOOD" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.491351467929803, 9.790506271892628 ], [ 125.491791023790284, 9.790407715691494 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional( L=40m)( W=1.90m) (H=1m ) GOOD" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.491893019778118, 9.790388078609499 ], [ 125.492057039490604, 9.79035425274559 ], [ 125.49226191626019, 9.790313468384394 ] ] ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional( L=49m)( W=1.90m) (H=1m ) GOOD" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "RCBC": "Functional( L=50m)( W=1.90m) (H=1m ) GOOD" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.492350302304018, 9.790294142371691 ], [ 125.492738356354124, 9.790226692157336 ], [ 125.49280070061414, 9.790210959805009 ] ] ] } }
+]
+}
